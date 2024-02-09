@@ -53,7 +53,9 @@ void Traversal::Display(int current) {
 
 		}
 	}
+
 }
+
 int Traversal::getStartVertex(int r, int c) {
 	int count = -1;
 	for (int i = 0; i < 8; i++) {
