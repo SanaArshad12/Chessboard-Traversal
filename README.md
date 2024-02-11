@@ -9,27 +9,24 @@ Visit our website at [Gui Projects](https://guiprojects.com/).
 
 
 ## Table of Contents
-
-- [Definition of classes in queue](#Definition-of-classes-in-queue)
-- [How to Enter the Input](#How-to-Enter-the-Input)
-- [Basic operations of queue](#Basic-operations-of-queue)
-  - [Enqueue](#Enqueue)
-  - [Dequeue](#Dequeue)
-  - [Is Empty](#Is-Empty)
-  - [Front (Peek)](#Front(Peek))
-  - [Display](#Display)
+- [Features](#features)
 - [Usage](#usage)
-- [Main Class of Cockroach Traversal project in C++](#Main-Class-of-Cockroach-Traversal-project-in-C++)
-- [Breadth First Search in Queue](#Breadth-First-Search-in-Queue)
-- [Conclusion](#Conclusion)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
 
 ## Features
 
 - Follows the FIFO principle
-- It is commonly used in graphs
-- Enter or delete the elements 
-- Display information 
-- ...
+- Basic operations of queue
+ - Enqueue
+ - Dequeue
+ - Is Empty
+ - Front
+ - Display
+
 
 ## Getting Started
 
@@ -59,10 +56,8 @@ Visit our website at [Gui Projects](https://guiprojects.com/).
 
 ## Screenshots
 
-![Screenshot 1](https://guiprojects.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-30-at-01.11.25_d4533b3b.jpg)
-![Screenshot 2](https://guiprojects.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-29-at-22.42.34_507c7d76.jpg)
-![Screenshot 3](https://guiprojects.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-29-at-22.36.54_42b42b2b.jpg)
+![Screenshot 1](https://guiprojects.com/wp-content/uploads/2024/02/bi-8.png)
 
-
+![Screenshot 2](https://guiprojects.com/wp-content/uploads/2024/02/image-24.png)
 
 
